@@ -1,4 +1,4 @@
-#[Zuru OS](https://zuru.ml)
+# <img src="https://zuru.ml/images/logos/small_colorfull_logo.png" width="28" height="28"/> [Zuru OS](https://zuru.ml)
 Opensource Server-side API with unlimited Cloud Storage. WebDav included!
 
 > **Note:**  this software in public beta. If you see any problems or bugs - [create new issue](https://github.com/ZuruTeam/Zuru/issues/new).
@@ -56,7 +56,7 @@ All documentation you can find at [dev.zuru.ml](http://dev.zuru.ml). Only Russia
 
 ##Requirements
 ###Minimal
-- :elephant: PHP 5.2
+- :elephant: PHP 5.1
 - 0777 root-privileges (read/write/delete/move/copy)
 - 64MB on the server drive
 - FTP
