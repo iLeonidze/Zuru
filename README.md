@@ -17,7 +17,7 @@ All source code realised under [GNU GPL v.2](https://github.com/ZuruTeam/Zuru/bl
 2. Create new "configurations" folder in the new user directory
 3. Put new ini-file "users" to configurations folder from previous step
 4. Update created ini-file to the specific content:
-```
+```javascript
 {
 	"login":"YOUR LOGIN (ONLY ENGLISH)",
 	"email":"YOUR EMAIL",
@@ -56,13 +56,13 @@ All documentation you can find at [dev.zuru.ml](http://dev.zuru.ml). Only Russia
 
 ##Requirements
 ###Minimal
-- PHP 5.2
+- 🐘 PHP 5.2
 - mod_rewrite.c
 - json_decode/json_encode
 - call_user_func
 
 ###Recommended
-- PHP 5.3-5.4
+- 🐘 PHP 5.3-5.4
 - mod_setenvif.c
 - mod_deflate.c
 - mod_gzip.c
