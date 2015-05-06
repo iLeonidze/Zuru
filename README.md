@@ -3,12 +3,13 @@ Opensource Server-side API with unlimited Cloud Storage. WebDav included!
 
 > **Note:**  this software in public beta. If you see any problems or bugs - [create new issue](https://github.com/ZuruTeam/Zuru/issues/new).
 
-##License
+##License <a name="license"></a>
 All source code realised under [GNU GPL v.2](https://github.com/ZuruTeam/Zuru/blob/master/LICENSE).
 
-##Installation
-1. Copy [git](https://github.com/ZuruTeam/Zuru/archive/master.zip) from the [master branch](https://github.com/ZuruTeam/Zuru/tree/master) to your server. Don't forget to unzip :package:
-2. Open your browser, go to [installer.zuru.ml](https://installer.zuru.ml) and proceed simple user registration. Thats everything you need to do!
+##Installation <a name="installation"></a>
+1. Read our [License](#license).
+2. Copy [git](https://github.com/ZuruTeam/Zuru/archive/master.zip) from the [master branch](https://github.com/ZuruTeam/Zuru/tree/master) to your server. Don't forget to unzip :package:
+3. Open your browser, go to [installer.zuru.ml](https://installer.zuru.ml) and proceed simple user registration. Thats everything you need to do!
 
 :wrench: If you don't want to show us your private server, then follow this steps: // Бородатые админы, это для Вас
 
@@ -40,7 +41,7 @@ Open your browser, go to your server and enjoy!
 > **Tip:** If you want to hide your private server, you can use [Hamachi](https://secure.logmein.com/RU/products/hamachi/download.aspx). It's really useful in such cases.
 
 ## Manual update
-1. Read our License.
+1. Read our [License](#license).
 2. Create backup!
 3. Have you created backup? Create backup! Seriously. :triumph:
 4. Go to /zuru/ and delete "mods" directory.
@@ -99,7 +100,7 @@ In the future you will be able to buy a premium donuts :doughnut:
 **@pr: Анастасия Воробьёва** / NSTDanci - [VK](https://vk.com/nstdanci) <a name="nstdanci"></a>
 
 ####Special thanks to:
-[Иван Балашов](https://vk.com/ivanparadox), [Никита Бурдин](https://vk.com/burdinn), [Роман Штыров](https://vk.com/id64479862)
+[Иван Балашов](https://vk.com/ivanparadox), [Никита Бурдин](https://vk.com/burdinn), [Роман Штыров](https://vk.com/id64479862), [Nc_Soft](mailto:intaspace@gmail.com), [DevMan](https://toster.ru/user/DevMan), [Сергей Наломенко](http://nalomenko.com/)
 
 and any other people from Toster and StackOverflow who helped and supported me and this project.
 
