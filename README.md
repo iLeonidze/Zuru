@@ -56,18 +56,28 @@ All documentation you can find at [dev.zuru.ml](http://dev.zuru.ml). Only Russia
 
 ##Requirements
 ###Minimal
-- 🐘 PHP 5.2
+- :elephant: PHP 5.2
+- 0777 root-privileges (read/write/delete/move/copy)
+- 64MB on the server drive
+- FTP
 - mod_rewrite.c
 - json_decode/json_encode
 - call_user_func
+- CURL
+- GET, POST, PUT requests
 
 ###Recommended
-- 🐘 PHP 5.3-5.4
+- :elephant: PHP 5.3-5.4
+- From 2GB on the server drive and higher
+- HTTPS support
 - mod_setenvif.c
 - mod_deflate.c
 - mod_gzip.c
 - mod_charset.c
 - php_value & php_flag modification
+- CURL without any limits
+- Unlimited hosting traffic
+- All WebDav requests + INSTALL
 
 ##Languages
 All API decriptions only in English.
